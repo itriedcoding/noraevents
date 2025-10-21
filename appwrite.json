@@ -1,6 +1,6 @@
 {
     "projectId": "<YOUR_PROJECT_ID>",
-    "projectName": "<YOUR_PROJECT_NAME>",
+    "projectName": "Nora Events",
     "settings": {
         "services": {
             "account": true,
