@@ -24,15 +24,12 @@ export default function Home() {
         }
       >
         <h1 className={"title-large mb-4 text-center"}>
-          <span className={"text-neutral-500"}>Your Hackathon</span>
+          <span className={"text-neutral-500"}>Nora Events</span>
           <br />
           <span className={"text-neutral-50"}>adventure starts here</span>
         </h1>
         <p className={"text-center text-neutral-500"}>
-          Join [Hackathon Name] and push your creativity to new heights! Solve
-          the [specific challenge] and create impactful solutions. Whether
-          you&#39;re a developer, designer, or enthusiast, this is your
-          opportunity to collaborate and showcase your skills.
+          Join our future events and come apart of the nexxt event winner with prices on the line. Events are coming soon.
         </p>
 
         <div className="mb-16 mt-10 h-6 flex items-center justify-center">
