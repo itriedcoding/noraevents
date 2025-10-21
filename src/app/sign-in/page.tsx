@@ -20,7 +20,7 @@ export default function Rules() {
           <h2 className={"mb-8 w-64 text-center text-3xl text-neutral-50"}>
             Welcome to
             <br />
-            Dev Hackathon
+            Nora Events
           </h2>
           <div
             className={
