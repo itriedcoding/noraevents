@@ -44,10 +44,10 @@ export default function Dashboard() {
               No submissions yet
             </span>
             <span className={"mb-6 px-4 text-center text-sm md:px-0"}>
-              Create a submission to participate in the hackathon
+              Create a submission to participate in the events.
             </span>
             <Link href={"/hacker/submit"}>
-              <Button>Submit project</Button>
+              <Button>Submit your submission today!</Button>
             </Link>
           </div>
         );
