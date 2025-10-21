@@ -4,11 +4,11 @@ import { Inter } from "next/font/google";
 import { UserProvider } from "@/components/UserProvider";
 
 export const metadata: Metadata = {
-  title: "Dev Hackathon",
-  description: "The best hackathon in town",
+  title: "Nora Events",
+  description: "The best events in the world, coming soon to your city possibly.",
   openGraph: {
-    title: "Dev Hackathon",
-    description: "The best hackathon in town",
+    title: "Nora Events",
+    description: "The best events in the world, coming soon to your city possibly.",
     images: [
       {
         url: "/images/og-image.png",
